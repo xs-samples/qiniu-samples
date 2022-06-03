@@ -9,4 +9,4 @@ io.xs.qiniu.samples.tests.UploadTests.upload1
 io.xs.qiniu.samples.tests.UploadTests.upload2
 ```
 
-> 验证请求地址：http://tests.0512.host/test.jpeg
+> 图片地址：http://tests.0512.host/test.jpeg
