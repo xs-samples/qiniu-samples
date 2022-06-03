@@ -9,4 +9,9 @@ io.xs.qiniu.samples.tests.UploadTests.upload1
 io.xs.qiniu.samples.tests.UploadTests.upload2
 ```
 
+```shell
+# 流程
+覆盖上传 > CDN 刷新上传文件
+```
+
 > 图片地址：http://tests.0512.host/test.jpeg
